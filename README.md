@@ -1,5 +1,5 @@
 # netflix-clone
-[![Preview](Sample.gif)]([https://github.com/Abdelwahed-Aridj/netflix-clone/resources/Sample.gif](https://github.com/Abdelwahed-Aridj/netflix-clone/blob/473aaaeb9fa4c99201a4929637b928faf9c4ae5b/resources/Sample.gif))
+[![Preview](Sample.gif)](resources/Sample.gif)
 ### Install packages
 
 ```shell
