@@ -1,7 +1,5 @@
 # netflix-clone
-<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
-    <img style='position:absolute; z-index:1;' src='./resources/Sample.gif' alt="Sample.gif"/>
-</div> 
+
 ### Install packages
 
 ```shell
